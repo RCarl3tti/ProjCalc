@@ -19,7 +19,7 @@ function Footer() {
       <p className={styles.copy_right}>
         <span>ProjCalc</span> &copy; 2024
       </p>
-      <p className={styles.desenvolvedor}>Desenvolvido por: Renan Carletti</p>
+      <p className={styles.desenvolvedor}>Desenvolvido por: Renan R. Carletti</p>
     </footer>
   );
 }
